@@ -6,6 +6,7 @@ public class Ejemplo extends JFrame{
 protected JPanel p;
 	public Ejemplo(){
 		p = new JPanel();
+		//Esto es solo una prueba para el uso de GitHub
 		setLayout(new BorderLayout());
 		add("North", new JButton("Norte."));
  		add("South", new JButton("Sur."));
